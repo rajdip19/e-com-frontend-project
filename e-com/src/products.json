@@ -1,0 +1,346 @@
+[
+    {
+        "id": "prod_Kvg9l6LLvo1bB7",
+        "created": 1608034244,
+        "updated": 1608034282,
+        "active": true,
+        "permalink": "06ZDEb",
+        "name": "Airpods",
+        "description": "<p>Freebuds Lite CM-H1C True Wireless In-ear Earphone Carbon Black<\/p>",
+        "price": {
+            "raw": 246.95,
+            "formatted": "246.95",
+            "formatted_with_symbol": "\u062f.\u0625246.95",
+            "formatted_with_code": "246.95 AED"
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": true,
+            "collects_billing_address": false,
+            "has_video": false,
+            "has_rich_embed": false,
+            "is_free": false,
+            "collects_extrafields": false,
+            "is_quantity_limited": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "sold_out": false,
+            "free": false,
+            "quantity_limited": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": true,
+            "billing_address": false,
+            "extrafields": false
+        },
+        "checkout_url": {
+            "checkout": "https:\/\/checkout.chec.io\/06ZDEb?checkout=true",
+            "display": "https:\/\/checkout.chec.io\/06ZDEb"
+        },
+        "media": {
+            "type": "image",
+            "source": "https:\/\/cdn.chec.io\/merchants\/20684\/assets\/FUT4x3ADSSlgnt2R|N23175818A_1.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "quantity": 0,
+        "categories": [],
+        "image": {
+            "id": "ast_BkyN5YVyqOl0b6",
+            "url": "https:\/\/cdn.chec.io\/merchants\/20684\/assets\/FUT4x3ADSSlgnt2R|N23175818A_1.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "N23175818A_1.jpg",
+            "file_size": 41871,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 800,
+                "height": 1091
+            },
+            "meta": [],
+            "created_at": 1608034221,
+            "updated_at": 1608034224
+        },
+        "variant_groups": [],
+        "assets": [{
+            "id": "ast_BkyN5YVyqOl0b6",
+            "url": "https:\/\/cdn.chec.io\/merchants\/20684\/assets\/FUT4x3ADSSlgnt2R|N23175818A_1.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "N23175818A_1.jpg",
+            "file_size": 41871,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 800,
+                "height": 1091
+            },
+            "meta": [],
+            "created_at": 1608034221,
+            "updated_at": 1608034224
+        }, {
+            "id": "ast_BkyN5YVyqOl0b6",
+            "url": "https:\/\/cdn.chec.io\/merchants\/20684\/assets\/FUT4x3ADSSlgnt2R|N23175818A_1.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "N23175818A_1.jpg",
+            "file_size": 41871,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 800,
+                "height": 1091
+            },
+            "meta": [],
+            "created_at": 1608034221,
+            "updated_at": 1608034224
+        }],
+        "attributes": [],
+        "related_products": [],
+        "extrafields": [],
+        "variants": []
+    }, {
+        "id": "prod_Op1YoV661oXLv9",
+        "created": 1608034680,
+        "updated": 1608034680,
+        "active": true,
+        "permalink": "9nrT6n",
+        "name": "Smartwatch",
+        "description": "<p>Series 5 Smart Watch With Replaceable Strap - 44mm Black<\/p>",
+        "price": {
+            "raw": 44.85,
+            "formatted": "44.85",
+            "formatted_with_symbol": "\u062f.\u062544.85",
+            "formatted_with_code": "44.85 AED"
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_sold_out": false,
+            "has_digital_delivery": false,
+            "has_physical_delivery": true,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": true,
+            "collects_billing_address": false,
+            "has_video": false,
+            "has_rich_embed": false,
+            "is_free": false,
+            "collects_extrafields": false,
+            "is_quantity_limited": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "sold_out": false,
+            "free": false,
+            "quantity_limited": false
+        },
+        "has": {
+            "digital_delivery": false,
+            "physical_delivery": true,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": true,
+            "billing_address": false,
+            "extrafields": false
+        },
+        "checkout_url": {
+            "checkout": "https:\/\/checkout.chec.io\/9nrT6n?checkout=true",
+            "display": "https:\/\/checkout.chec.io\/9nrT6n"
+        },
+        "media": {
+            "type": "image",
+            "source": "https:\/\/cdn.chec.io\/merchants\/20684\/assets\/rB9hUEMszKIN56mN|N39843845A_1.jpg",
+            "asset_id": "ast_RyWOwmdK1KlnEa"
+        },
+        "quantity": 0,
+        "categories": [],
+        "image": {
+            "id": "ast_RyWOwmdK1KlnEa",
+            "url": "https:\/\/cdn.chec.io\/merchants\/20684\/assets\/rB9hUEMszKIN56mN|N39843845A_1.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "N39843845A_1.jpg",
+            "file_size": 52763,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 800,
+                "height": 1091
+            },
+            "meta": [],
+            "created_at": 1608034658,
+            "updated_at": 1608034661
+        },
+        "variant_groups": [],
+        "assets": [{
+            "id": "ast_RyWOwmdK1KlnEa",
+            "url": "https:\/\/cdn.chec.io\/merchants\/20684\/assets\/rB9hUEMszKIN56mN|N39843845A_1.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "N39843845A_1.jpg",
+            "file_size": 52763,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 800,
+                "height": 1091
+            },
+            "meta": [],
+            "created_at": 1608034658,
+            "updated_at": 1608034661
+        }, {
+            "id": "ast_RyWOwmdK1KlnEa",
+            "url": "https:\/\/cdn.chec.io\/merchants\/20684\/assets\/rB9hUEMszKIN56mN|N39843845A_1.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "N39843845A_1.jpg",
+            "file_size": 52763,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 800,
+                "height": 1091
+            },
+            "meta": [],
+            "created_at": 1608034658,
+            "updated_at": 1608034661
+        }],
+        "attributes": [],
+        "related_products": [],
+        "extrafields": [],
+        "variants": []
+    }, {
+        "id": "prod_zkK6oLddOoXn0Q",
+        "created": 1608034793,
+        "updated": 1608034793,
+        "active": true,
+        "permalink": "o1Gr83",
+        "name": "Playstation",
+        "description": "<p>PlayStation 4 Slim 1TB Console - Jet Black<\/p>",
+        "price": {
+            "raw": 1199,
+            "formatted": "1,199.00",
+            "formatted_with_symbol": "\u062f.\u06251,199.00",
+            "formatted_with_code": "1,199.00 AED"
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+            "title": null,
+            "description": null
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+            "is_active": true,
+            "is_tax_exempt": false,
+            "is_pay_what_you_want": false,
+            "is_sold_out": false,
+            "has_digital_delivery": true,
+            "has_physical_delivery": false,
+            "has_images": true,
+            "collects_fullname": false,
+            "collects_shipping_address": true,
+            "collects_billing_address": false,
+            "has_video": false,
+            "has_rich_embed": false,
+            "is_free": false,
+            "collects_extrafields": false,
+            "is_quantity_limited": false
+        },
+        "is": {
+            "active": true,
+            "tax_exempt": false,
+            "pay_what_you_want": false,
+            "sold_out": false,
+            "free": false,
+            "quantity_limited": false
+        },
+        "has": {
+            "digital_delivery": true,
+            "physical_delivery": false,
+            "images": true
+        },
+        "collects": {
+            "fullname": false,
+            "shipping_address": true,
+            "billing_address": false,
+            "extrafields": false
+        },
+        "checkout_url": {
+            "checkout": "https:\/\/checkout.chec.io\/o1Gr83?checkout=true",
+            "display": "https:\/\/checkout.chec.io\/o1Gr83"
+        },
+        "media": {
+            "type": "image",
+            "source": "https:\/\/cdn.chec.io\/merchants\/20684\/assets\/WDlrnPJYhVPFE2oD|N11825483A_1.jpg",
+            "asset_id": "ast_Kvg9l6AD7v51bB"
+        },
+        "quantity": 0,
+        "categories": [],
+        "image": {
+            "id": "ast_Kvg9l6AD7v51bB",
+            "url": "https:\/\/cdn.chec.io\/merchants\/20684\/assets\/WDlrnPJYhVPFE2oD|N11825483A_1.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "N11825483A_1.jpg",
+            "file_size": 30804,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 800,
+                "height": 1091
+            },
+            "meta": [],
+            "created_at": 1608034781,
+            "updated_at": 1608034783
+        },
+        "variant_groups": [],
+        "assets": [{
+            "id": "ast_Kvg9l6AD7v51bB",
+            "url": "https:\/\/cdn.chec.io\/merchants\/20684\/assets\/WDlrnPJYhVPFE2oD|N11825483A_1.jpg",
+            "description": null,
+            "is_image": true,
+            "filename": "N11825483A_1.jpg",
+            "file_size": 30804,
+            "file_extension": "jpg",
+            "image_dimensions": {
+                "width": 800,
+                "height": 1091
+            },
+            "meta": [],
+            "created_at": 1608034781,
+            "updated_at": 1608034783
+        }]}
+    ]

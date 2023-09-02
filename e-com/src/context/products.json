@@ -1,0 +1,414 @@
+[
+    {
+        "id": "1",
+        "name": "Airpods",
+        "description": "Automatically on, automatically connected Easy setup for all your Apple devices Quick access to Siri by saying “Hey Siri” Double-tap to play or skip forward New Apple H1 headphone chip delivers faster wireless connection to your devices",
+        "price": {
+            "raw": 246.95,
+            "formatted": "246.95",
+            "formatted_with_symbol": "\u062f.\u0625246.95",
+            "formatted_with_code": "246.95 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/7120GgUKj3L._SX679_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category": "headphone"
+    },
+    {
+        "id": "2",
+        "name": "Home Theater",
+        "description": "Main unit has the controlsssss and one out wire for another unit sub woofer and provided two channels out so that you can join other unit inlet wire into either of right or left channel out in the main unit.",
+        "price": {
+            "raw": 2499.95,
+            "formatted": "2499.95",
+            "formatted_with_symbol": "\u062f.\u06252499.95",
+            "formatted_with_code": "2499.95 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/41kDrYdoqqL._SX300_SY300_QL70_FMwebp_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category": "speaker"
+    },
+    {
+        "id": "3",
+        "name": "Lenovo ThinkCenter 19 Inch AIO Desktop Set(Intel i5 4thGen/ 8GB/256GB SSD/19",
+        "description": "The Lenovo Thinkcenter All in one AIO Desktop Fullset comes equiped with a HD 19screen giving you the ultimate experience withexcellent performance and versatility Its Powered by M93p tiny CPU withcore intel i54thgenrocessor8GBRAMand256GBSSD.",
+        "price": {
+            "raw": 17625,
+            "formatted": "17,625",
+            "formatted_with_symbol": "\u062f.\u062517,625",
+            "formatted_with_code": "17,625 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/612CyMLlFlL._SX679_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category": "laptop"
+    },
+    {
+        "id": "4",
+        "name": "Samsung Galaxy Book3 Pro Intel 13th Gen i7",
+        "description": "Processor: 13th Gen Intel Core i7-1360P processor up to 5.0 GHz 18 MB L3 Cache) | Memory: 16 GB LPDDR5 Memory | Storage: 512 GB NVMe SSD,",
+        "price": {
+            "raw": 149990,
+            "formatted": "1,49,990",
+            "formatted_with_symbol": "\u062f.\u06251,49,990",
+            "formatted_with_code": "1,49,990 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/41uAO0ypTKL._SX300_SY300_QL70_FMwebp_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category": "laptop"
+    },
+    
+    {
+        "id": "5",
+        "name": "Sony SA-D40 4.1 Channel Multimedia Speaker System with Bluetooth (Black)",
+        "description": "4.1 channel multimedia speakers, CENTRE SPEAKER ENCLOSURE TYPE and FRONT SPEAKER ENCLOSURE TYPE: Bass ReflexEnjoy powerful bass with large sub-woofer and 80W outputEnjoy wireless music with mobile through Bluetooth streamingDesigned for use with TVs, PCs and music playersUSB port for easy connectivityStylish black gloss speaker finishSupplied with remote control. Front Speaker Dimensions (W x H x D): 10.6 x18.8 x9.6cmCountry of Origin: China",
+        "price": {
+            "raw": 9490 ,
+            "formatted": "9,490 ",
+            "formatted_with_symbol": "\u062f.\u06259,490 ",
+            "formatted_with_code": "9,490  AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/61EW1LZ2NHL._SX522_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category": "speaker"
+    },
+    {
+        "id": "6",
+        "name": "SAMSUNG Galaxy F13 ",
+        "description": "Enjoy seamless connectivity and an uninterrupted movie marathon with the impressive Samsung Galaxy F13 that is designed specifically to impress the entertainment fanatics. This smartphone features a terrific 16.62 cm (6.6) FHD+ LCD Display that can effortlessly blow your mind with its incredible performance. Furthermore, this phone boasts a 50 MP Triple Camera setup that allows you to capture awesomeness with a gentle tap. Moreover, the Samsung Galaxy F13 sports up to 8 GB of RAM and features an innovative RAM plus technology that taps into the phone’s internal storage to elevate its performance.",
+        "price": {
+            "raw": 10999,
+            "formatted": "10999",
+            "formatted_with_symbol": "\u062f.\u062510999",
+            "formatted_with_code": "10999 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/81YwHUpTSkL._SX569_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category": "Smartphone"
+
+    },
+    {
+        "id": "7",
+        "name": "Charger cable",
+        "description": "Connect USB Type-C enabled devices (MacBook, Chromebook Pixel, Galaxy Note 7, etc.) with standard USB Type-A enabled devices (laptops, hard drives, power banks, wall/car chargers, etcIdeal for charging and powering USB Type-C enabled devices, as well as syncing data, photos, and music; Type-C port is half the width and one-third the height of a standard USB-A connector (slightly larger compared to Lightning or Micro-USB ports)",
+        "price": {
+            "raw": 749,
+            "formatted": "749",
+            "formatted_with_symbol": "\u062f.\u0625749",
+            "formatted_with_code": "749 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/71x5wbpuFPL._SX522_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"charger"
+    },
+    {
+        "id": "8",
+        "name": "Samsung Galaxy S23 Ultra 5G (Green, 12GB, 256GB Storage)",
+        "description": "More innovation, less footprint  Galaxy S23 Ultra's striking symmetrical design returns with one major difference: recycled and eco-conscious materials. From the metal frame to the glass finish, it's polished with fresh new colors inspired by nature.",
+        "price": {
+            "raw": 124999,
+            "formatted": "1,24,999",
+            "formatted_with_symbol": "\u062f.\u06251,24,999",
+            "formatted_with_code": "1,24,999 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/41kyuER2HjL._SX300_SY300_QL70_FMwebp_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"Smartphone"
+    },
+    {
+        "id": "9",
+        "name": "boAt Rockerz 255 Pro+",
+        "description": "Playback- Leave all charging worries at bay as the Rockerz 255 Pro+ comes with a humongous battery back up of upto 40 hours(@50% volumeASAP Charge- With a few minutes of ASAP Charge you can get upto 10 hours of audio time by charging them for only 10 mins. Charging Tme : 1.5 H",
+        "price": {
+            "raw": 1399,
+            "formatted": "1399",
+            "formatted_with_symbol": "\u062f.\u06251399",
+            "formatted_with_code": "1399 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/51aBTOiXRlL._SX522_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"headphone"
+    },
+    {
+        "id": "10",
+        "name": "Allen Solly Men's Regular Fit Polo",
+        "description": " Care Instructions: Wash with mild detergent, do not bleach, dry in shade Fit Type: Regular Fit Occasion : Casual   Fit : Regular Fit Material : 60% Cotton and 40% Polyester Neck : Polo Neck Pattern  Solid ",
+        "price": {
+            "raw":"639",
+            "formatted": "639",
+            "formatted_with_symbol": "\u062f.\u0625639",
+            "formatted_with_code": " 639AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/31WT3X-vk8L.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"T-shirt"
+    },
+    {
+        "id": "11",
+        "name": "Unbreakable Water Bottle with Motivational Time Marker, Sipper Bottle for Adults, Water bottle for Gym Office| Mobile app with Drinking water reminder | Orange Teal",
+        "description": " bout this item  WHAT YOU GET  Tritan Motivational Water Bottle, Cleaning Brush, SOLARA Home Mobile app (iOS/Google Play store) with Drinking water reminder and SOLARA Promise.; ?? ?MOTIVATIONAL QUOTE & TIME MARKER?- With unique inspirational quote and time markers on it, this water bottle is great for measuring your daily intake of water,reminding you stay hydrated and drink enough water throughout the day.A must have for any fitness goals including weight loss,appetite control and overall health ",
+        "price": {
+            "raw": 749,
+            "formatted": "749",
+            "formatted_with_symbol": "\u062f.\u0625749",
+            "formatted_with_code": "749 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/81ie4vmxPVL._SX679_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"Water Bottle"
+    },
+    {
+        "id": "12",
+        "name": "ELEGANTE Retro Narrow Rimless Sunglasses UV Protection Coating Vintage Rectangle Sunglasses for Women Men",
+        "description": " Rimless Sunglasses for Men and Women Size : Free size fit to all adult faces UV Protection Coating good for outdoor activites Color : Gold Frame, Black Lenses ",
+        "price": {
+            "raw": 499,
+            "formatted": "499",
+            "formatted_with_symbol": "\u062f.\u0625499",
+            "formatted_with_code": "499 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/51DRyeQJ7+L._UL1500_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"Sunglass"
+    },
+    {
+        "id": "13",
+        "name": "Echo Dot 4th Gen, 2020 release Smart speaker with Alexa (White) Brand: Amazon",
+        "description": "4th Generation Echo Dot -Smart Speaker with Alexa that can be operated by voice. Alexa can speak English and Hindi.Improved bass performance compared to Echo Dot 3rd Gen.Just ask Alexa to play music from Amazon Music, Hungama, Spotify, Jio Saavn, Apple Music. (some apps may require subscription).",
+        "price": {
+            "raw": 4499,
+            "formatted": "4,499",
+            "formatted_with_symbol": "\u062f.\u06254,499",
+            "formatted_with_code": "4,499 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/61JhG2HKMCL._SX679_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"speaker"
+    },
+    {
+        "id": "14",
+        "name": "Samsung 108 cm (43 inches) Full HD Smart LED TV",
+        "description": "Resolution : Full HD (1920x1080)Refresh Rate: 60 hertz Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 1 USB ports to connect hard drives and other USB devicesSound : 20 Watts Output | Dolby Digital Plus Smart TV Features : Voice Assistants | SmartThings App | Personal Computer | Home Cloud | Live Cast | Screen Share | Music Systemp",
+        "price": {
+            "raw": 34990,
+            "formatted": "34,990",
+            "formatted_with_symbol": "\u062f.\u062534,990",
+            "formatted_with_code": "34,990 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/913rVTAZF0L._SX522_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"TV"
+    },
+    {
+        "id": "15",
+        "name": "Quick Charging Data Sync for iPhone 14 13 12 11 Pro Max Mini Xs Xr X 8 iPad",
+        "description": " 20W Fast Charger Adapter UNIGEN 20W USB C Wall Charger max output of 20W power, with the intelligent chip inside, pre-eminent copper core wire maximizes signal quality and ensures stable data sync, charge your device up to 3x faster than original 5W charger. Unrivaled speed shortens your charging time and improves your life.",
+        "price": {
+            "raw": 1099,
+            "formatted": "1099",
+            "formatted_with_symbol": "\u062f.\u06251099",
+            "formatted_with_code": "1099 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/51P6+-V6sDL._SX522_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"charger"
+    },
+    {
+        "id": "16",
+        "name": "Noise Pulse Go Buzz Smart Watch",
+        "description": "Brand Noise Model Name ColorFit Pulse Go Buzz Style Strap Colour Pink Screen Size 1.69 Inches Special Feature Sleep Monitor, Notifications  Shape Rectangular Target Audience Unisex Teen, Unisex Adult Age Range Adult Compatible Devices Laptop, Tablet, Smartphone",
+        "price": {
+            "raw": 1599,
+            "formatted": "1,599",
+            "formatted_with_symbol": "\u062f.\u06251,599",
+            "formatted_with_code": "1,599 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/418tFshxkJL._SX300_SY300_QL70_FMwebp_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"watch"
+    },
+    {
+        "id": "17",
+        "name": "Apple iPhone 14 (256 GB) - Yellow",
+        "description": "15.40 cm (6.1-inch) Super Retina XDR display Advanced camera system for better photos in any light Cinematic mode now in 4K Dolby Vision up to 30 fpsAction mode for smooth, steady, handheld videos Vital safety technology — Crash Detection calls for help when you can",
+        "price": {
+            "raw": 84900,
+            "formatted": "84,900",
+            "formatted_with_symbol": "\u062f.\u062584,900",
+            "formatted_with_code": "84,900 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/31F7pQ4P6KL._SY445_SX342_QL70_FMwebp_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"Smartphone"
+    },
+    {
+        "id": "18",
+        "name": "boAt Rockerz 330",
+        "description": "Playback- Keep dancing to the tunes of your moods all day long as Rockerz 330 is backed with a playtime of upto 30 hours.",
+        "price": {
+            "raw": 1.299,
+            "formatted": "1,299",
+            "formatted_with_symbol": "\u062f.\u06251,299",
+            "formatted_with_code": "1,299 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/51HWmUoZhWS._SX522_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"headphone"
+    },
+    {
+        "id": "19",
+        "name": "Noise Pulse Go Buzz Smart Watch",
+        "description": "Sharp and bright display: The 1.69 TFT display with 240*280px and 550 nits brightness ensures visual treat every time you look at the watch.Tru Sync: Experience fast and stable connectivity with low power consumption.BT calling: Stay in touch with your friends - right from your wrist.",
+        "price": {
+            "raw": 1699,
+            "formatted": "1,699",
+            "formatted_with_symbol": "\u062f.\u06251,699",
+            "formatted_with_code": "1,699 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/61akt30bJsL._SX522_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"watch"
+    },
+    {
+        "id": "20",
+        "name": "OnePlus 10R 5G (Forest Green, 8GB RAM, 128GB Storage, 80W SuperVOOC)",
+        "description": "Camera: 50MP Main Camera with Sony IMX766 and 2MP Macro Camera with Dual LED Flash; 16MP Front (Selfie) Camera with Sony IMX471Camera Features: Nightscape2.0, Super Macro, UltraShot HDR, Smart Scene Recognition, Portrait mode, Pro mode, Panorama, Tilt-shift mode, Focus Peaking, Filters, Video Nightscape, Video HDR, Video Portrait Timelapse, Hyperlapse Mode",
+        "price": {
+            "raw": 31999,
+            "formatted": "31999",
+            "formatted_with_symbol": "\u062f.\u062531999",
+            "formatted_with_code": "31999 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/716uVx3Wr5L._SX679_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"Smartphone"
+    },
+    {
+        "id": "21",
+        "name": "Apple iPhone 14 Pro Max (256 GB) Gold",
+        "description": "17.00 cm (6.7-inch) Super Retina XDR display featuring Always-On and ProMotionDynamic Island, a magical new way to interact with iPhone48MP Main camera for up to 4x greater resolutionCinematic mode now in 4K Dolby Vision up to 30 fpsAction mode for smooth, steady, handheld videos",
+        "price": {
+            "raw": 149900,
+            "formatted": "149900",
+            "formatted_with_symbol": "\u062f.\u0625149900",
+            "formatted_with_code": "149900 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/31DaY6l18YL._SY445_SX342_QL70_FMwebp_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"Smartphone"
+    },
+    {
+        "id": "22",
+        "name": "cycle",
+        "description": "The MTB frame is ergonomically designed to handle tough terrains, with round tubes that measure 45.72 cm 18 Head Fitting: normal type set of8Ed black Handle Bar double bend type steel MTB bar; Handle Stem: SteelBrake type: Front & Rear V-Brake with alloy leversFork type: Rigid",
+        "price": {
+            "raw": 5399,
+            "formatted": "5,399",
+            "formatted_with_symbol": "\u062f.\u06255,399",
+            "formatted_with_code": "5,399 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/81g7Mf2hO0L._SX522_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"Cycle"
+    },
+    {
+        "id": "23",
+        "name": "bluetooth headphone",
+        "description": "Comfortable Design: Beat the workday blues with music on Zeb-Thunder wireless headphone that comes in an ergonomic design a perfect fit and design for long hours use. Microphone impedance:1.2k Ω,Microphone sensitivity:-38dB ±1dB. Talk time 12 hrs Soft & comfortable earcups: Listen to music, podcasts and more for long hours with soft ear cups making it super comfortable for daily wearAdjustable headband: Adust your headband to your comfortable best while you work or listen to music9hrs Playback Time: Fall in love with the audio experience with 9 hours of playback time to keep you goingSuperior Sound Quality: Magnify every speck of sound with superior sound quality on Zeb-Thunder wireless headphone",
+        "price": {
+            "raw": 629,
+            "formatted": "629",
+            "formatted_with_symbol": "\u062f.\u0625629",
+            "formatted_with_code": "629 AED"
+        },
+        "media": {
+            "type": "image",
+            "source": "https://m.media-amazon.com/images/I/81cJ1kUT1LL._SX522_.jpg",
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"headphone"
+    },
+    {
+        "id": "24",
+        "name": "cooking pot",
+        "description": "Totally TOXIN-FREE Biryani PotHeavy gauge construction for extra thickness and durabilityPure iron ore material heats quickly and also promotes EVEN HEATING throughout the frypan body; saves cooking gasNO SYNTHETIC OR CHEMICAL COATINGS APPLIED",
+        "price": {
+            "raw": 3450,
+            "formatted": "3,450",
+            "formatted_with_symbol": "\u062f.\u0625₹3,450",
+            "formatted_with_code": "3,450 AED"
+        },
+        "media": {
+            "type": "image",
+            
+            "source": "https://m.media-amazon.com/images/I/61mz3wcELWL._SX679_.jpg",
+
+            "asset_id": "ast_BkyN5YVyqOl0b6"
+        },
+        "category":"kitchen"
+    }
+]
